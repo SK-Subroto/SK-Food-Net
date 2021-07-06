@@ -39,9 +39,7 @@ h4{
 }
 
 .half-width img{
-    /* height: 80%; */
     margin-top: 25px;
-    /* margin-left: 30px; */
     padding-top: 40px;
     height: 600px;
 }
@@ -72,7 +70,6 @@ nav{
 	z-index: 1;
     background-color: white;
     height: 50px;
-    /* margin-top: -20px; */
 }
 
 
@@ -89,13 +86,12 @@ nav{
 }
 
 #menu li a:hover{
-	color: #048CF7;
+	/* color: #048CF7; */
     border-bottom: #048CF7 3px solid;
 
 }
 
 #topIcon{
-	/* font: 30px; */
     list-style: none;
     color: #048CF7;
     font-weight: 900;
@@ -106,7 +102,6 @@ nav{
 /* home-start */
 #home{
     height: 100vh;
-    /* margin-top: 20px; */
 }
 
 #home h1{
@@ -162,8 +157,6 @@ nav{
 .card{
     width: 30%;
     height: 550px;
-    /* background-color: wheat; */
-    /* margin: 35px; */
     border-radius: 30px;
     box-shadow: 0px 0px 20px -10px grey;
 }
@@ -215,7 +208,6 @@ nav{
 .review-card{
     display: flex;
     box-shadow: 5px 7px 40px gray;
-    /* border-radius: 10px; */
     padding: 3% 5%;
     height: 230px;
     width: 100%;
@@ -235,7 +227,6 @@ nav{
 
 /* contact-start */
 #contact{
-    /* background-color: #048CF7; */
     background-image: linear-gradient(180deg, #11B2FB, #048CF7);
     color: white;
 }
